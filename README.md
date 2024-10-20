@@ -1,4 +1,5 @@
-Fantasy Premier League (FPL) Team Tracking Notebook
+Fantasy Premier League (FPL) Team Tracking
+
 This Jupyter notebook provides an interactive way to track and analyze a Fantasy Premier League (FPL) team's performance throughout the season. By pulling data directly from the FPL public API, it visualizes key aspects of the team's gameweek-by-gameweek performance, including:
 
 Team Points: Compare your team's weekly points against average and highest scores in the league.
